@@ -1,6 +1,6 @@
 import React from "react";
 
-import classes from "./Input.module.css";
+import classes from "./input.module.css";
 
 const Input = (props) => {
   return (
